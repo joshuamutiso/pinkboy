@@ -1,0 +1,2 @@
+# pinkboy
+setting up git
